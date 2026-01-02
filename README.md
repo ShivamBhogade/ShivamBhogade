@@ -20,7 +20,8 @@
 
 **Tools:**  
 - Git, GitHub  
-- Eclipse / IntelliJ  
+- Eclipse / IntelliJ
+- Docker, Postman
 
 ---
 
